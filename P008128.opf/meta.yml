@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20468
   title: བྱང་ཐང་སྨུག་པ་ཁེར་རྒྱུག
-  volume: ''
+  volume:
+    c2e08e3e1cff4cb8a29300dd88e4c373:
+      image_group_id: I8LS20470
+      title: Volume 1 of byang sgra snyan gyi rtsom btus [-] byang thang smug pa kher
+        rgyug
+      volume_number: 1
+      total_pages: 212
   author: ''
+ebook_metadata:
+  title: བྱང་ཐང་སྨུག་པ་ཁེར་རྒྱུག
+  author: ''
+  sku: P008128
+  cover: cover.jpg
+  layers:
+  - pagination
